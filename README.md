@@ -1,4 +1,8 @@
-# AlexaLamp
+# AlexaLampOriginal
+
+**This project has been superseeded by a [newer and more complicated version](https://github.com/supercrab/AlexaLamp)**
+
+**This project lacks MDNS, automatic updates, web interface and configuration but is still very stable and runs just fine!**
 
 This project was to create an Alexa voice controlled lamp with adjustable brightness. The lamp can also controlled using a rotary encoder with built in push switch.
 
