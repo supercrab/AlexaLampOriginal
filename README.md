@@ -1,4 +1,4 @@
-# AlexaLampOriginal
+# Alexa Lamp Original
 
 **This has been superseeded by a [newer and more complicated version](https://github.com/supercrab/AlexaLamp) which supports MDNS, automatic updates and web configuration - if you do not need that please use this very stable version!**
 
